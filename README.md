@@ -38,9 +38,9 @@ This project explores sales performance for a fictional retail company, "Superst
 - 💰 **Highest revenue generated in the West and Central regions**.
 - 🪑 **Technology** category showed the highest Sales followed closely by **Furniture**.
 - 🏷️ **Phones** and **Chairs** had the most sales by subcategory.
-- **Other** under Manufactory had the most sales.
 - 👥 **Corporate and Consumer segments** were the most profitable customer bases.
 - **Q4** consistently had the most sales in all the years could be as a result of more marketing and the holiday season.
+- **Other** under Manufactory had the most sales.
 
 ---
 
@@ -53,7 +53,8 @@ This project explores sales performance for a fictional retail company, "Superst
   - Pie charts and Donut chart for sales by category and sales by segment respectively.
   - Slicers for dynamic filtering by region.
 
-![Dashboard Screenshot](!dashboard_screenshot.png)
+![Dashboard Screenshot](!dashboard_screenshot.png)![Screenshot 2025-05-14 095846](https://github.com/user-attachments/assets/c3a6a35b-fe12-4257-a487-308efb695bf1)
+
 
 ---
 
@@ -63,8 +64,7 @@ This project explores sales performance for a fictional retail company, "Superst
 |----------------------------|------------------------------------------|
 | `superstore_sales.xlsx`    | Cleaned dataset                          |
 | `superstore_dashboard.pbix`| Power BI dashboard file                  |
-| `dashboard_screenshot.png` ![Screenshot 2025-05-14 095846](https://github.com/user-attachments/assets/f6eadbe1-b87a-4bb1-9934-852652f3f7ea)
-| Preview of final dashboard               |
+| `dashboard_screenshot.png` !| Preview of final dashboard |
 | `README.md`                | This documentation file                  |
 
 ---
@@ -81,6 +81,6 @@ This project reflects my ability to:
 
 ## 📬 Let’s Connect!
 
-- 🌐 [LinkedIn]
+- 🌐 [LinkedIn](www.linkedin.com/in/emwindosa-osarenmwinda-52428a14a)
 - 💼 [Portfolio](https://yourportfolio.com)
 - 📧 osarenmwindame@gmail.com
