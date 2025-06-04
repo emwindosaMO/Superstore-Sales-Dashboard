@@ -53,7 +53,7 @@ This project explores sales performance for a fictional retail company, "Superst
   - Pie charts and Donut chart for sales by category and sales by segment respectively.
   - Slicers for dynamic filtering by region.
 
-![Dashboard Screenshot](!dashboard_screenshot.png)![Screenshot 2025-05-14 095846](https://github.com/user-attachments/assets/c3a6a35b-fe12-4257-a487-308efb695bf1)
+(https://github.com/user-attachments/assets/c3a6a35b-fe12-4257-a487-308efb695bf1)
 
 
 ---
@@ -83,4 +83,4 @@ This project reflects my ability to:
 
 - 🌐 [LinkedIn](www.linkedin.com/in/emwindosa-osarenmwinda-52428a14a)
 - 💼 [Portfolio](https://yourportfolio.com)
-- 📧 osarenmwindame@gmail.com
+- 📧 [Email](osarenmwindame@gmail.com)
