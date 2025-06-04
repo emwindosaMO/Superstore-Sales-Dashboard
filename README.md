@@ -1,4 +1,3 @@
-# Superstore-Sales-Dashboard
 # 🛍️ Superstore Sales Report – Power BI Project
 
 ## 📌 Project Overview
