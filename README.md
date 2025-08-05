@@ -52,7 +52,8 @@ This project explores sales performance for a fictional retail company, "Superst
   - Pie charts and Donut chart for sales by category and sales by segment respectively.
   - Slicers for dynamic filtering by region.
 
-(https://github.com/user-attachments/assets/c3a6a35b-fe12-4257-a487-308efb695bf1)
+[Superstore_Store_Dashboard] <img width="1064" height="602" alt="Superstore Screenshot" src="https://github.com/user-attachments/assets/e2ae3cd8-7b06-493f-bbd0-e539840ebc3c" />
+
 
 
 ---
